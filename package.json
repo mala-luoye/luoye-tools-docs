@@ -1,0 +1,12 @@
+{
+  "name": "luoye-tools-docs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "git add . && git commit -m \"文档站部署\" && git push"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
